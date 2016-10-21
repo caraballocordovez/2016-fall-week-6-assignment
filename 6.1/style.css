@@ -1,0 +1,11 @@
+.axis path{
+		stroke-width: 0px;
+}
+
+.axis line{
+		stroke: #FFFFFF;
+}
+
+.country text{
+	text-align: center;
+}
